@@ -1,0 +1,12 @@
+Sr#,Course,Cr Hours,Marks,Course GPA,Points
+1,DS,4,89,4,16.0
+2,OOP,3,85,4,12.0
+3,DB,4,75,3.3,13.2
+4,Urdu,4,65,2.7,10.8
+5,Pak Studies,3,50,1.7,5.1
+,T_Cr_hours,18,,Total_Points,57.1
+,GPA,,,,3.17
+,Pre_GPA,,,,3.0
+,Pre_cr_h,,,,18.0
+,CGPA,,,,3.09
+,Percentage,,,,72.8
